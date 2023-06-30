@@ -27,7 +27,7 @@ Exercício proposto pela B7Web para testar conhecimentos de HTML5 e CSS3
 
 ## 🔖 Layout
   <p>
-    <img alt="Desing do Projeto" src="./modelo.png" width="100%">
+    <img alt="Desing do Projeto" src="./modelo.png" width="40%">
   </p>
 ---
 
